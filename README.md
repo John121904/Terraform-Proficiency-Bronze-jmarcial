@@ -16,7 +16,7 @@ You will need an Azure subscription and a storage account to use for the backend
      ![backend block](backend_block.JPG)
 
 
-3. Terraform
+3. Running Terraform
    - Initialize
      ```
      Terraform init
