@@ -11,7 +11,7 @@ You will need an Azure subscription and a storage account to use for the backend
 
 2. In the Terraform main script, update the Backend Block
    - Input the values from the output above except the ***access_key*** (optional)
-   - `terraform.tfstate` is the Blob that stores the remote state file. Input it as your **key** value
+   - `terraform.tfstate` is the Blob that stores the remote state file. This will be the **key** value
    
      ![backend block](backend_block.JPG)
 
